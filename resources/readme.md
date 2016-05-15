@@ -1,1 +1,1 @@
-Please explain here the purpose of this folder
+This folder contains important resources
