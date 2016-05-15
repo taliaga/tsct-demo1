@@ -1,0 +1,14 @@
+- git rev-parse FOO
+    - Inspect hash of FOO object
+
+- git ls-tree FOO
+    - Show tree FOO
+    
+- git cat-file -t FOO
+    - Inpect object type of FOO object
+    
+- git cat-file commit FOO
+    - Inspect commit FOO
+
+- git cat-file tag FOO
+    - Inspect tag FOO
